@@ -87,7 +87,7 @@
       <input type="text" class="form-control"  placeholder="" value="" name="logseatno" required>
     </div>
     <div class="col-md-4 mb-3 form-group">
-      <label for="validationDefault02"class="label1">Mother's Last name</label>
+      <label for="validationDefault02"class="label1">Mother's name</label>
       <input type="text" class="form-control"  placeholder="" value="" required name="logmother">
     </div>
  

@@ -123,15 +123,16 @@
   padding-top: 1%;
   padding-bottom: 1%;
 }
-.label1{
+/* .label1{
   
-}
+} */
 nav{
   background-color: maroon!important;
   /* color: white !important; */
 /*    position: fixed !important;  
     z-index: 1 !important; Stay on top
-  /* top: 0 !important; Stay at the top  */*/
+  /* top: 0 !important; Stay at the top  */
+  /*/
  */
 }
 .carousel{
